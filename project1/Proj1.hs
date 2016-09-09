@@ -122,6 +122,6 @@ selectGuess (x:xs) cardlist = (average_anwser,x):(selectGuess xs cardlist)
 
 
 
-
+--changed by vim
 
 
